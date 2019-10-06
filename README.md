@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/iamsuperrich/f4a4c1da-7e6a-4a5b-8398-947d5d9538e0/0d047e97-a865-4994-9af4-25fdf8a58600/_apis/work/boardbadge/b165c70c-e6c5-4492-b502-9117bfdfb5fa)](https://dev.azure.com/iamsuperrich/f4a4c1da-7e6a-4a5b-8398-947d5d9538e0/_boards/board/t/0d047e97-a865-4994-9af4-25fdf8a58600/Microsoft.RequirementCategory)
 # kelvinrichxchange-
